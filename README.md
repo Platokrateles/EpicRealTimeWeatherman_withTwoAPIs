@@ -1,2 +1,8 @@
 # EpicRealTimeWeatherman_withTwoAPIs
- Raindrops are falling on my head And just like the guy whose feet are too big for his bed Nothing seems to fit Those raindrops are falling on my head, they keep falling
+
+Raindrops are falling on my head...
+And just like the guy whose feet are too big for his bed...
+Nothing seems to fit those...
+Raindrops are falling on my head, they keep falling
+ 
+![EpicWheaterman](https://user-images.githubusercontent.com/61872257/156557871-65f87f7e-ace8-4ae6-a4e3-1e339f608db8.png)
